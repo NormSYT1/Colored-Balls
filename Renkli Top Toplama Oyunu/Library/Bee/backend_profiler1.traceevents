@@ -1,0 +1,475 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1688420779093111, "dur":2038, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779095158, "dur":71, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1688420779095251, "dur":23, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1688420779095274, "dur":435, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1688420779095749, "dur":961, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779096710, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215233, "dur":270, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215503, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215525, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215529, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215541, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215544, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215558, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215560, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215570, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215573, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215583, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215586, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215596, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215599, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215609, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215612, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215624, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215654, "dur":5, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779215687, "dur":2995, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1688420779096304, "dur":416, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779096723, "dur":7897, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779104638, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1688420779104643, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779104793, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1688420779104801, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779106889, "dur":3745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1688420779110641, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1688420779110747, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779110759, "dur":2451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1688420779113294, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1688420779113377, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779113389, "dur":2161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1688420779115626, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779115848, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779115966, "dur":21683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779139556, "dur":469, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779140031, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779140043, "dur":11243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779151362, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779151509, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779151565, "dur":4993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779156639, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779156791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779156801, "dur":3672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779160545, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779160680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779160690, "dur":2590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779163349, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779163430, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779163441, "dur":2351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779165927, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779166171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779166186, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779168734, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779168889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779168900, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779171340, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779171473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779171482, "dur":4917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779176476, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779176622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779176632, "dur":2534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779179241, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779179328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779179338, "dur":2691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779182111, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779182191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779182200, "dur":4115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779186390, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779186474, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779186518, "dur":2389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779188982, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779189068, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779189079, "dur":4973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779194127, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779194201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688420779194210, "dur":13070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688420779207583, "dur":7648, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779096469, "dur":271, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779096740, "dur":7911, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779104651, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1688420779104791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779105913, "dur":4810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1688420779110807, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1688420779110892, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779110904, "dur":2845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1688420779113828, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1688420779113926, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779113938, "dur":5896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1688420779119987, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779120174, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779120290, "dur":2494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779122865, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779122940, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779122953, "dur":1997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779125011, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779125078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779125090, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779127036, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779127137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779127151, "dur":3787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779131027, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779131129, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779131146, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779133440, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779133525, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779133536, "dur":2501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779136120, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779136204, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779136215, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779138284, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779138363, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779138374, "dur":1589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779140050, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779140135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779140145, "dur":1913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779142143, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779142222, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779142231, "dur":3062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779145364, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779145511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779145523, "dur":3773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779149386, "dur":1627, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779151023, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779151039, "dur":3081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779154198, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779154354, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779154368, "dur":2779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779157228, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779157369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779157379, "dur":3383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779160840, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779161026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779161037, "dur":2672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779163871, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779164135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779164145, "dur":3347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779167575, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779167724, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779167782, "dur":3118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779171003, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779171144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779171154, "dur":3344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779174575, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779174728, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779174738, "dur":2556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779177361, "dur":328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779177694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779177704, "dur":2177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779179955, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779180026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779180036, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779182100, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779182217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779182227, "dur":3924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779186230, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779186323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779186333, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779188922, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779189002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779189013, "dur":5553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688420779194638, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1688420779194711, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779194721, "dur":2956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1688420779197762, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":2, "ts":1688420779197850, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779197861, "dur":3607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":2, "ts":1688420779201549, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1688420779201823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779201839, "dur":2697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1688420779204612, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1688420779204698, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779204707, "dur":2079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1688420779206859, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1688420779206943, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688420779206951, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1688420779208597, "dur":6617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779096344, "dur":386, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779096731, "dur":7897, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779104639, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1688420779104819, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779107897, "dur":3056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1688420779111035, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1688420779111129, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779111140, "dur":2967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1688420779114188, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1688420779114272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779114282, "dur":1725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1688420779116092, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1688420779116268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779116275, "dur":9038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1688420779125400, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779125483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779125537, "dur":7431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779133054, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779133137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779133150, "dur":2204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779135438, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779135545, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779135560, "dur":1747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779137392, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779137472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779137484, "dur":1791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779139359, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779139429, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779139441, "dur":2199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779141721, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779141796, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779141808, "dur":4033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779145927, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779146064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779146074, "dur":5923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779152067, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779152220, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779152230, "dur":4010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779156319, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779156472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779156485, "dur":3557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779160123, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779160285, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779160297, "dur":2446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779162825, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779162981, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779162993, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779165385, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779165537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779165548, "dur":2237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779167865, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779168010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779168020, "dur":3216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779171313, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779171456, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779171465, "dur":3047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779174614, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779174758, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779174767, "dur":2498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779177339, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779177491, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779177501, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779179893, "dur":1289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779181187, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779181199, "dur":4375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779185651, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779185732, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779185741, "dur":2081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779187897, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779187977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779187986, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779192548, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779192632, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779192645, "dur":2665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688420779195389, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1688420779195470, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779195479, "dur":9590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1688420779205141, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1688420779205216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779205224, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1688420779207069, "dur":4382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1688420779211462, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688420779211478, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1688420779213304, "dur":1926, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779096515, "dur":234, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779096750, "dur":7875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779104640, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1688420779104848, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779110672, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1688420779112564, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1688420779112654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779112666, "dur":34621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1688420779147377, "dur":733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779148118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779148132, "dur":4490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779152706, "dur":281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779152992, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779153002, "dur":3685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779156778, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779157006, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779157017, "dur":3853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779160946, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779161079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779161089, "dur":2984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779164151, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779164292, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779164342, "dur":2800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779167215, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779167357, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779167367, "dur":2726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779170199, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779170348, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779170358, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779172471, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779172607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779172617, "dur":2701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779175424, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779175591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779175602, "dur":2077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779177753, "dur":1010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779178768, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779178779, "dur":2423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779181302, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779181394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779181404, "dur":5953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779187552, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779187936, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779187946, "dur":6693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688420779194751, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1688420779194835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779194844, "dur":9770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1688420779204693, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1688420779204772, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688420779204780, "dur":2879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1688420779207739, "dur":7477, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779096636, "dur":123, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779096759, "dur":7871, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779104638, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1688420779104846, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779109333, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1688420779111892, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1688420779112021, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779112033, "dur":2377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1688420779114492, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1688420779114574, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779114584, "dur":1986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1688420779116656, "dur":74833, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls.exe" }}
+,{ "pid":12345, "tid":5, "ts":1688420779191645, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779191660, "dur":2789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls.exe" }}
+,{ "pid":12345, "tid":5, "ts":1688420779194538, "dur":553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688420779195095, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779195105, "dur":3081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688420779198540, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1688420779198637, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779198690, "dur":4812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1688420779203658, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1688420779203751, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779203760, "dur":2136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1688420779205971, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1688420779206045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688420779206055, "dur":1740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1688420779207869, "dur":7343, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688420779096684, "dur":82, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688420779096767, "dur":7856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688420779104639, "dur":287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1688420779104931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688420779111228, "dur":3756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1688420779115171, "dur":1826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688420779117002, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688420779117014, "dur":92814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688420779209914, "dur":5296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779096784, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779096785, "dur":7864, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779104650, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1688420779104791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779106081, "dur":5028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1688420779111192, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1688420779111277, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779111289, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1688420779115764, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779115949, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779115957, "dur":40856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779156929, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779157070, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779157080, "dur":3708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779160863, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779161030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779161041, "dur":2725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779163845, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779163937, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779163949, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779166583, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779166851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779166861, "dur":2533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779169472, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779169620, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779169631, "dur":2654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779172361, "dur":322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779172689, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779172699, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779175753, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779175891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779175901, "dur":2345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779178322, "dur":995, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779179323, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779179333, "dur":2483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779181918, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779182023, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779182035, "dur":2951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779185069, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779185144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779185157, "dur":1897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779187125, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779187197, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779187207, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779189252, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779189341, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779189350, "dur":4404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779193830, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779193904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779193914, "dur":5776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688420779199774, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1688420779199899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779199914, "dur":3414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1688420779203647, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1688420779203742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779203754, "dur":2656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1688420779206484, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1688420779206561, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688420779206570, "dur":1573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1688420779208217, "dur":7016, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779096833, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779096834, "dur":7793, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779104639, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1688420779104824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779108659, "dur":2486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1688420779111231, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1688420779111325, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779111555, "dur":6956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1688420779118602, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1688420779118815, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779118910, "dur":21955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1688420779141626, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779141834, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779141884, "dur":6736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779148709, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779148865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779148875, "dur":7803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779156755, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779156945, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779156956, "dur":3745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779160873, "dur":952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779161833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779161844, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779164809, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779164971, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779164982, "dur":2545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779167606, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779167781, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779167792, "dur":3079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779170948, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779171087, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779171096, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779173453, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779173632, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779173643, "dur":3055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779176773, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779176920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779176931, "dur":2382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779179390, "dur":784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779180178, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779180188, "dur":3134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779183399, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779183487, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779183501, "dur":4352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779187927, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779188003, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779188012, "dur":4745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779192874, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779192953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779192963, "dur":3967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688420779197010, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1688420779197100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779197113, "dur":3815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1688420779201967, "dur":11818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/drogb/Desktop/A1/Colored Balls_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1688420779213790, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688420779213800, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/drogb/Desktop/A1/Colored Balls_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1688420779215189, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1688420779215192, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688420779220805, "dur":2657, "ph":"X", "name": "ProfilerWriteOutput" }
+,
